@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SampleList</string>
+    <string-array name="lv_planet">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="mercury">水星</string>
+    <string name="venus">金星</string>
+    <string name="earth">地球</string>
+    <string name="mars">火星</string>
+    <string name="jupiter">木星</string>
+    <string name="saturn">土星</string>
+    <string name="uranus">天王星</string>
+    <string name="neptune">海王星</string>
+    <string name="text_view">星の名前</string>
+</resources>
